@@ -34,9 +34,10 @@
 ## 🔧 Projects and Achievements
 - **Project Name**: BalanceBliss Video   :   [Click here to watch Video]
 - **Project Name**: Multi Label Tweet Classification & Application [Click here to watch]
-- **Achievement**: Fast track promoted to SDE1 within an year.
+- **Achievement**:  <p>Fast track promoted to SDE1 within an year.</p>,br> <p> Got recognised several times for delivering complex user stories.</p>
 
   
+
   [Click here to watch Video]: <https://www.youtube.com/watch?v=1X-yq917Uo8>
   [Click here to watch]: <https://youtu.be/KJz0u_dSsMI>
 
