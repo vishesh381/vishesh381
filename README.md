@@ -1,5 +1,5 @@
 # About Me
-
+<div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi 👋, I'm Vishesh Sharma</h1>
 <h3 align="center">A passionate Software Engineer and CSE graduate student at Pace University</h3>
 
@@ -50,4 +50,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh381" alt="Vishesh Sharma's GitHub Streak Stats" />
 </p>
+</div>
 
