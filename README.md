@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Creating a custom developer console**
+- 🔭 I’m currently working on **Custom developer console**
 - 🌱 I’m currently mastering **Android Development**
 - 📫 How to reach me **vs42370n@pace.edu**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YF3Mi2GZ4g3UK1wBBwooqs-K9E8pTtMC/view?usp=sharing)
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vishesh-sharma-0444b8169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/v_i_s_h14?igsh=MWNzM3pqNnkzcmhpYQ==" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ## 🛠 Languages and Tools:
@@ -31,8 +32,8 @@
 </p>
 
 ## 🔧 Projects and Achievements
-- **Project Name**: Brief description of the project and your role in it.
-- **Project Name**: Brief description of the project and your role in it.
+- **Project Name**: BalanceBliss.
+- **Project Name**: Multi Label Tweet Classification & Application.
 - **Achievement**: Details about the achievement and its significance.
 
 ## 📊 GitHub Stats
@@ -43,6 +44,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh381" alt="VisheshSharma" />
 </p>
 
-## 📚 Blog Posts
-- [Blog Post Title](URL): Brief description of the blog post.
-- [Blog Post Title](URL): Brief description of the blog post.
