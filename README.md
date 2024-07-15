@@ -10,7 +10,7 @@
 - 📫 How to reach me **vs42370n@pace.edu**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YF3Mi2GZ4g3UK1wBBwooqs-K9E8pTtMC/view?usp=sharing)
 - ⚡ Fun fact **It’s all 0’s and 1’s**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vishesh-sharma-0444b8169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -50,5 +50,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh381" alt="Vishesh Sharma's GitHub Streak Stats" />
 </p>
-
-</div>
