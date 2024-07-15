@@ -32,8 +32,8 @@
 </p>
 
 ## 🔧 Projects and Achievements
-- **Project Name**: BalanceBliss([Click here to watch Video])
-- **Project Name**: Multi Label Tweet Classification & Application([Click here to watch])
+- **Project Name**: BalanceBliss [Click here to watch Video]
+- **Project Name**: Multi Label Tweet Classification & Application [Click here to watch]
 - **Achievement**: Fast track promoted to SDE1 within an year.
   [Click here to watch]: https://www.youtube.com/watch?v=1X-yq917Uo8
   [Click here to watch Video]: <https://youtu.be/KJz0u_dSsMI>
