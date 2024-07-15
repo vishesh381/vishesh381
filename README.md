@@ -37,8 +37,8 @@
 - **Achievement**: Fast track promoted to SDE1 within an year.
 
   
-  [Click here to watch]: <https://www.youtube.com/watch?v=1X-yq917Uo8>
-  [Click here to watch Video]: <https://youtu.be/KJz0u_dSsMI>
+  [Click here to watch Video]: <https://www.youtube.com/watch?v=1X-yq917Uo8>
+  [Click here to watch]: <https://youtu.be/KJz0u_dSsMI>
 
 ## 📊 GitHub Stats
 <p align="center">
