@@ -36,15 +36,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisheshSharma&show_icons=true&locale=en" alt="VisheshSharma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishesh381&show_icons=true&locale=en" alt="VisheshSharma" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisheshSharma" alt="VisheshSharma" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh381" alt="VisheshSharma" />
 </p>
-
-## 💬 Get In Touch
-- LinkedIn: [linkedin.com/in/vishesh-sharma-0444b8169](https://www.linkedin.com/in/vishesh-sharma-0444b8169/)
-- Email: vs42370n@pace.edu
 
 ## 📚 Blog Posts
 - [Blog Post Title](URL): Brief description of the blog post.
