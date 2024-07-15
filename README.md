@@ -43,11 +43,11 @@
   [Click here to watch]: <https://youtu.be/KJz0u_dSsMI>
 
 ## 📊 GitHub Stats
-<p align="center">
+<div style="text-align: center;">
   ![Vishesh Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishesh381&show_icons=true&locale=en&theme=dark)
-</p>
+</div>
 
 ## 🔥 GitHub Streak Stats
-<p align="center">
+<div style="text-align: center;">
   ![Vishesh Sharma's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishesh381&theme=dark)
-</p>
+</div>
