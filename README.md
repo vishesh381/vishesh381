@@ -1,4 +1,5 @@
 # About Me
+
 <div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi 👋, I'm Vishesh Sharma</h1>
 <h3 align="center">A passionate Software Engineer and CSE graduate student at Pace University</h3>
@@ -32,23 +33,15 @@
 </p>
 
 ## 🔧 Projects and Achievements
-- **Project Name**: BalanceBliss Video   :   [Click here to watch Video]
-- **Project Name**: Multi Label Tweet Classification & Application [Click here to watch]
-- **Project Name**: UNILEVER VEEVA VAULT QMS
-- **Project Name**: UNILEVER SONAR
-- **Achievement**:  <p>1. Fast track promoted to SDE1 within an year.</p><p>2. Got recognised several times for delivering complex user stories.</p>
-
-  
-
-  [Click here to watch Video]: <https://www.youtube.com/watch?v=1X-yq917Uo8>
-  [Click here to watch]: <https://youtu.be/KJz0u_dSsMI>
+- **Project Name**: BalanceBliss Video   :   [Click here to watch Video](https://www.youtube.com/watch?v=1X-yq917Uo8)
+- **Project Name**: Multi Label Tweet Classification & Application [Click here to watch](https://youtu.be/KJz0u_dSsMI)
+- **Achievement**: <p>Fast track promoted to SDE1 within a year.</p><p> Got recognized several times for delivering complex user stories.</p>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishesh381&show_icons=true&locale=en" alt="Vishesh Sharma's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishesh381&show_icons=true&locale=en&theme=dark" alt="Vishesh Sharma's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh381" alt="Vishesh Sharma's GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh381&theme=black-dark" alt="Vishesh Sharma's GitHub Streak Stats" />
 </p>
 </div>
-
