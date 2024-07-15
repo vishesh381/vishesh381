@@ -44,15 +44,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishesh381&show_icons=true&locale=en" alt="Vishesh Sharma's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh381" alt="Vishesh Sharma's GitHub Streak Stats" />
-</p>
-
-## 📊 GitHub Stats
 ![Vishesh Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishesh381&show_icons=true&locale=en&theme=dark)
+</p>
 
 ## 🔥 GitHub Streak Stats
+<p align="center">
 ![Vishesh Sharma's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishesh381&theme=dark)
+</p>
 
