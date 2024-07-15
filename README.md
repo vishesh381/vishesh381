@@ -1,5 +1,4 @@
 # About Me
-<div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi 👋, I'm Vishesh Sharma</h1>
 <h3 align="center">A passionate Software Engineer and CSE graduate student at Pace University</h3>
 
@@ -10,7 +9,7 @@
 - 📫 How to reach me **vs42370n@pace.edu**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YF3Mi2GZ4g3UK1wBBwooqs-K9E8pTtMC/view?usp=sharing)
 - ⚡ Fun fact **It’s all 0’s and 1’s**
-</div>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vishesh-sharma-0444b8169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
