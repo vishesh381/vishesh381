@@ -33,21 +33,29 @@
 ## 🔧 Projects and Achievements
 - **Project Name**: BalanceBliss Video   :   [Click here to watch Video]
 - **Project Name**: Multi Label Tweet Classification & Application [Click here to watch]
-- **SkillBridge**: Developed a full-stack job application portal using React.js, Spring Boot, and MongoDB. Try it here
-- **YumRun** – Full-stack food delivery platform with smart ordering using Spring Boot and MySQL (Amazon RDS). Try it here
-- **SwiftInvoice**: Cloud-based billing app with Razorpay integration, PDF billing, self-user ordering, and billing analytics. GitHub
-- **DreamCRV**: Real-time car customization tool using Lightning Web Components OSS with form handling. GitHub
-- **Gatherly**: Invitation management app in Salesforce, streamlining event creation and RSVPs. GitHub
-- **NewsZap**: React-based news app delivering real-time headlines via NewsAPI with category-wise filtering and responsive UI. Try it here
-- **Shopzy**: Full-stack eCommerce system with product browsing, cart & order management, and Stripe payment integration using Spring Boot, ReactJS, and PostgreSQL. Try it here
-- **California House Price Prediction**: Built and optimized ML models to predict California house prices with 85% accuracy on 20K+ records, analyzing income correlations via Linear Regression, Decision Tree, and Random Forest; visualized results with scikit-learn and Matplotlib.  [Click here to watch Video]
+- **SkillBridge**: Developed a full-stack job application portal using React.js, Spring Boot, and MongoDB.  [SkillBridge]
+- **YumRun** – Full-stack food delivery platform with smart ordering using Spring Boot and MySQL (Amazon RDS). [YumRun]
+- **SwiftInvoice**: Cloud-based billing app with Razorpay integration, PDF billing, self-user ordering, and billing analytics. [SwiftInvoice]
+- **DreamCRV**: Real-time car customization tool using Lightning Web Components OSS with form handling. [DreamCRV]
+- **Gatherly**: Invitation management app in Salesforce, streamlining event creation and RSVPs. [Gatherly]
+- **NewsZap**: React-based news app delivering real-time headlines via NewsAPI with category-wise filtering and responsive UI. [NewsZap—Your-daily-dose-of-news]
+- **Shopzy**: Full-stack eCommerce system with product browsing, cart & order management, and Stripe payment integration using Spring Boot, ReactJS, and PostgreSQL. [Shopzy]
+- **California House Price Prediction**: Built and optimized ML models to predict California house prices with 85% accuracy on 20K+ records, analyzing income correlations via Linear Regression, Decision Tree, and Random Forest; visualized results with scikit-learn and Matplotlib.  [California House Price Prediction]
 - **Achievement**:  <p>1. Fast track promoted to SDE1 within an year.</p><p>2. Got recognised several times for delivering complex user stories.</p>
 
   
 
   [Click here to watch Video]: <https://www.youtube.com/watch?v=1X-yq917Uo8>
   [Click here to watch]: <https://youtu.be/KJz0u_dSsMI>
-
+  [SkillBridge]: <https://skillbridge-frontend.onrender.com/>
+  [YumRun]: <https://yumrun-frontend.onrender.com/>
+  [SwiftInvoice]: <https://github.com/vishesh381/SwiftInvoice>
+  [NewsZap—Your-daily-dose-of-news]: <https://newszap-your-daily-dose-of-news.onrender.com/>
+  [Shopzy]: <https://shopzy-frontend.onrender.com/>
+  [California House Price Prediction]: <https://github.com/vishesh381/California-Housing-Prices>
+  [DreamCRV]: <https://github.com/vishesh381/DreamCRV>
+  [Gatherly]: <https://github.com/vishesh381/Gatherly---Your-Invitation-App>
+  
 ## 📊 GitHub Stats
 
   ![Vishesh Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishesh381&show_icons=true&locale=en&theme=dark)
