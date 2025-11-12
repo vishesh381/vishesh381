@@ -1,17 +1,13 @@
 # About Me
 <h1 align="center">Hi 👋, I'm Vishesh Sharma</h1>
-<h3 align="center">Full-Stack Java Developer with 5 years of experience building high-performance web applications, cloud-native microservices, and
-real-time APIs. Proficient in React, Spring Boot, Hibernate, REST APIs, WebSockets, Redis, AWS, Docker, and CI/CD pipelines—driving
-improvements in scalability, security, and user experience. Experienced in integrating and extending Salesforce CRM with external
-systems. Recognized for optimizing performance, accelerating release cycles, and enhancing user engagement across scalable, datadriven platforms. Fast-tracked to a Senior Developer position within a year for exceptional technical contributions and leadership.
+<h3 align="center">Full-Stack Developer with 5 years of experience building high-performance web applications, cloud-native microservices, and real-time APIs. Proficient in React.js, Spring Boot, Hibernate, REST APIs, WebSockets, Redis, AWS, Docker, and CI/CD pipelines—driving improvements in scalability, security, and user experience. Experienced in integrating and extending Salesforce CRM with external systems. Recognized for optimizing performance, accelerating release cycles, and enhancing user engagement across scalable, datadriven platforms. Fast-tracked to a Senior Developer position within a year for exceptional technical contributions and leadership.
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **Ecom Web App**
 - 🌱 I’m currently mastering **Creating AI Agents**
-- 📫 How to reach me **vishesh**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YF3Mi2GZ4g3UK1wBBwooqs-K9E8pTtMC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y_5YvrfMyeerwPUX-2dI1lqBjGhXhxHf/view?usp=sharing)
 - ⚡ Fun fact **It’s all 0’s and 1’s**
   
 <h3 align="left">Connect with me:</h3>
