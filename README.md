@@ -1,6 +1,10 @@
 # About Me
 <h1 align="center">Hi 👋, I'm Vishesh Sharma</h1>
-<h3 align="center">A passionate Software Engineer and CSE graduate student at Pace University</h3>
+<h3 align="center">Full-Stack Java Developer with 5 years of experience building high-performance web applications, cloud-native microservices, and
+real-time APIs. Proficient in React, Spring Boot, Hibernate, REST APIs, WebSockets, Redis, AWS, Docker, and CI/CD pipelines—driving
+improvements in scalability, security, and user experience. Experienced in integrating and extending Salesforce CRM with external
+systems. Recognized for optimizing performance, accelerating release cycles, and enhancing user engagement across scalable, datadriven platforms. Fast-tracked to a Senior Developer position within a year for exceptional technical contributions and leadership.
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
