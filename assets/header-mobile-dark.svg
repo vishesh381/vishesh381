@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="570" viewBox="0 0 640 570" role="img" aria-labelledby="title desc">
+  <title id="title">Vishesh Sharma</title><desc id="desc">AI engineer and full-stack developer in New York. Salesforce, AI agents, and web applications.</desc>
+  <defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#243244"/></pattern>
+  <clipPath id="clip"><rect width="640" height="570" rx="24"/></clipPath></defs>
+  <style>
+    text{font-family:'Segoe UI',Arial,sans-serif;fill:#f1f5f9}
+    .mono{font-family:Consolas,'Liberation Mono',monospace}
+    .small{font-size:22px;fill:#a5b5c7}
+    .name{font-size:96px;font-weight:700;letter-spacing:-4px}
+    .role{font-size:34px;font-weight:400;letter-spacing:-.5px}
+    .skills{font-size:22px;fill:#a5b5c7}
+    .divider{fill:none;stroke:#29424a;stroke-width:1}
+    .orbit{fill:none;stroke:#29424a;stroke-width:1.5}
+    .signal{fill:#a8f0cd;animation:signal 4s ease-in-out infinite}
+    @keyframes signal{0%,100%{opacity:.35}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.signal{animation:none}}
+  </style>
+  <g clip-path="url(#clip)"><rect width="640" height="570" fill="#0b1420"/>
+  <rect x="350" width="640" height="570" fill="url(#dots)" opacity=".7"/>
+  <path d="M0 0h640" stroke="#a8f0cd" stroke-width="5"/>
+  <circle cx="536" cy="446" r="150" class="orbit"/>
+  <circle cx="536" cy="446" r="111" class="orbit"/>
+  <path d="M400 504L462 504L496 470M576 422L619 379L670 379M514 406L514 327M560 486L560 567" class="orbit"/>
+  <rect x="488" y="398" width="96" height="96" rx="26" fill="#132331" stroke="#29424a"/>
+  <text x="536" y="462" text-anchor="middle" style="font-size:42px;font-weight:650;letter-spacing:-3px;fill:#a8f0cd">VS</text>
+  <circle cx="514" cy="327" r="5" class="signal"/><circle cx="560" cy="567" r="5" class="signal" style="animation-delay:1.5s"/>
+  <rect x="394" y="498" width="12" height="12" rx="3" fill="#a8f0cd"/>
+  <circle cx="670" cy="379" r="7" fill="#a8f0cd"/>
+  <text x="40" y="67" class="mono small">New York / vishesh381</text>
+      <text x="36" y="169" class="name">Vishesh</text><text x="36" y="257" class="name">Sharma</text>
+      <text x="40" y="325" class="role">AI engineer &amp;</text><text x="40" y="365" class="role">full-stack developer</text>
+      <path d="M40 408h228" class="divider"/>
+      <text x="40" y="455" class="mono skills">Salesforce</text><text x="40" y="484" class="mono skills">AI agents</text><text x="40" y="513" class="mono skills">Web applications</text></g>
+</svg>
